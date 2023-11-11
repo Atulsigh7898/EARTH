@@ -245,6 +245,11 @@ display: none;
 }
 .contact p{
     margin: 16px 0 32px;
+    background: #4a4949;
+}
+header.sticky{
+    padding: 8px 15%;
+    background: #797575;
 }
 footer{
     padding: 40px 0;
